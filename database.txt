@@ -1,0 +1,7 @@
+Aguero 21
+Rooney 30
+Lewandowski 30
+Muller 33
+Ibrahimovic 46
+Messi 80
+Ronaldo 89
